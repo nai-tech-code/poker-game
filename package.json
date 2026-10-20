@@ -1,0 +1,10 @@
+{
+  "name": "poker-game",
+  "version": "1.0.0",
+  "description": "Texas Hold'em poker against AI opponents, served by a zero-dependency Node server.",
+  "private": true,
+  "type": "module",
+  "engines": { "node": "22.x" },
+  "scripts": { "start": "node server.js" },
+  "belld": { "health": { "path": "/" } }
+}

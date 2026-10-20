@@ -1,0 +1,4 @@
+node_modules/
+.belld/
+.claude/
+AGENTS.md
